@@ -1,0 +1,35 @@
+static.
+dynamic.
+subdomains.
+key value store.
+billing
+usage analitycs
+alerts near usage limits
+name server
+js connection
+
+ready backends :
+auth.
+blog (posts, comments, likes, author, ...)
+shop (items, cart, factor, ...)
+payment
+email
+chat
+sms
+connect to telegram channel
+connect to instagram account
+bots (telegram slack twitter instagram ...)
+ads
+sockets
+
+apps:
+stand-alone server
+ad designer
+site drawer (fast site maker)
+shop maker (drag and drop shops)
+web studio (full web dev IDE)
+
+server services:
+asset cdn api
+postgres cluster
+mongodb cluster

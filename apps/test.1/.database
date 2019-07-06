@@ -1,0 +1,7 @@
+query1 (a, b) {
+    print a {a} {b} s
+    read {a}
+    write force 12
+    print a a {a} {{a}} {{{a}}}
+    return ok
+}

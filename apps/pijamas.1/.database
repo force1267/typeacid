@@ -1,0 +1,6 @@
+query1 (a, b) {
+    print 1
+    query1({a}, {b}) x
+    print {x}
+    return 2
+}
